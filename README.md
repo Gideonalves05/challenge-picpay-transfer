@@ -35,6 +35,3 @@
 
 :mag: Baixe o projeto e teste você mesmo na prática.
 
-[Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
-
-Developed by Build & Run
